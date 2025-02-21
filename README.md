@@ -10,7 +10,7 @@ La API utiliza autenticación por token Bearer. El token de acceso debe enviarse
 Authorization: Bearer <Token>
 ```
 
-El token puede obtenerse a través de la página de configuración de una cuenta en https://soniditos.com/account-settings
+El token se obtiene a través de la de configuración en una cuenta en https://soniditos.com/account-settings
 
 ## Recursos Principales
 
